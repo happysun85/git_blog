@@ -1,2 +1,7 @@
-baseurl: /git_blog
-theme: jekyll-theme-merlot
+title: Merlot theme
+description: Merlot is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme:
+baseurl: /jekyll_demo
+
